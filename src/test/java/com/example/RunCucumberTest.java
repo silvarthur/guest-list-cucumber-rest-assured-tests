@@ -1,4 +1,4 @@
-package guest-list-cucumber-rest-assured-tests;
+package com.example;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
